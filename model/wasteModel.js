@@ -1,4 +1,4 @@
-const { type } = require('@testing-library/user-event/dist/type')
+
 const mongooes=require('mongoose')
 
 const wasteSchema =new mongooes.Schema({
